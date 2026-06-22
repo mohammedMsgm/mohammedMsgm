@@ -1,144 +1,112 @@
-<!-- 
-  <<< Author notes: Header of the course >>> 
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses Creative Commons Attribution 4.0 International.
--->
+<!-- ╔═══════════════════════════════════════════════╗
+     ║   Mohammed Messeguem · GitHub profile README   ║
+     ╚═══════════════════════════════════════════════╝ -->
 
-# Launchpad: Profile README
+<div align="center">
 
-_Say hello to your community._
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=210&section=header&text=Mohammed%20Messeguem&fontSize=44&fontColor=ffffff&fontAlignY=34&desc=Backend-focused%20Software%20Engineer%20%C2%B7%20AI%20Backends%20%C2%B7%20RAG%20%C2%B7%20Serverless%20on%20AWS&descSize=17&descAlignY=56&animation=fadeIn" width="100%" alt="Mohammed Messeguem" />
 
+<a href="https://www.mohammedmsgm.tech/">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1000&color=2DD4BF&center=true&vCenter=true&width=660&height=40&lines=I+build+AI-powered+backend+systems;RAG+pipelines+%C2%B7+Streaming+chat+APIs+%C2%B7+E2E+encryption;TypeScript+%2F+Node.js+%2F+Python+on+AWS;4%2B+years+shipping+production+SaaS" alt="What I do" />
+</a>
 
-<!-- 
-  <<< Author notes: Start of the course >>> 
-  Include start button, a note about Actions minutes,
-  and tell the learner why they should take the course.
-  Each step should be wrapped in <details>/<summary>, with an `id` set.
-  The start <details> should have `open` as well.
-  Do not use quotes on the <details> tag attributes.
--->
+<p>
+  <a href="https://www.mohammedmsgm.tech/"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/mohammed-messeguem-139b53161/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:mohammedmsgm@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=mohammedMsgm&style=for-the-badge&color=2DD4BF&label=PROFILE+VIEWS" alt="Profile views" />
+</p>
 
-<details id=0 open>
-<summary><h2>Welcome</h2></summary>
+<sub>⚙️ &nbsp;Currently <b>AI Software Engineer &amp; Technical Consultant @ Codefox</b> &nbsp;·&nbsp; 📍 Algiers, Algeria</sub>
 
-Say ‘Hello world’ with a profile README that lets you introduce yourself to the GitHub community. You decide what information to include in your profile README, so you have full control over how you present yourself on GitHub. This experience walks you through a quick tutorial to create your profile README.
-- **Who is this for**: New developers, new GitHub users, and students.
-- **What you'll learn**: How to create a public repository for use as a profile README.
-- **What you'll build**: We'll make a profile README file.
-- **Prerequisites**: None. This course is a great introduction for your first day on GitHub.
-- **How long**: This launchpad takes about 20 mins to complete.
+</div>
 
-**About your profile README**
+<br/>
 
-You can share information about yourself with the community on GitHub.com by creating a profile README. GitHub shows your profile README at the top of your profile page. Here are some examples of information that visitors may find interesting, fun, or useful in your profile README.
-- An "About me" section that describes your work and interests
-- Contributions you're proud of, and context about those contributions
-- Guidance for getting help in communities where you're involved
+## 👋 About me
 
-Here’s an example of a Campus Expert profile README
-<img width="1367" alt="Screen Shot 2023-03-13 at 2 55 41 PM" src="https://user-images.githubusercontent.com/107881423/224805660-26f7272f-6df1-42c0-b4c4-f3b2d790dd65.png">
+Backend-focused software engineer with **4+ years** building production services for AI-powered SaaS. I design and ship **REST + streaming APIs**, **RAG pipelines**, and **serverless backends** — primarily in TypeScript / Node.js and Python on AWS. Backend-first, but I take features end-to-end when they need a UI.
 
+```ts
+const mohammed = {
+  role:       "AI Software Engineer & Technical Consultant @ Codefox",
+  focus:      ["RAG pipelines", "streaming chat APIs", "secure cloud backends"],
+  stack:      ["TypeScript", "Node.js", "NestJS", "Python", "AWS"],
+  shipsUI:    "React / Next.js when a feature goes end-to-end",
+  education:  "M.Sc. Data Science · B.Sc. Software Engineering — USTHB",
+  experience: "junior → tech lead → founding-era engineer at startups",
+  values:     ["reliability", "clear communication", "high ownership"],
+};
+```
 
+## 🛠️ Tech Stack
 
+<div align="center">
 
+**Languages**<br/>
+<img src="https://skillicons.dev/icons?i=ts,js,python" height="44" alt="TypeScript, JavaScript, Python" />
 
+**Backend &amp; APIs**<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,fastapi" height="44" alt="Node.js, NestJS, Express, FastAPI" />
 
-## Start Here
+**AI &amp; LLM**<br/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
+<img src="https://img.shields.io/badge/Anthropic-D4A27F?style=flat-square&logo=anthropic&logoColor=white" alt="Anthropic" />
+<img src="https://img.shields.io/badge/Azure_OpenAI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure OpenAI" />
+<img src="https://img.shields.io/badge/RAG_Pipelines-FF6F61?style=flat-square&logo=databricks&logoColor=white" alt="RAG" />
+<img src="https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="pgvector" />
 
-1. **What is a profile README?**: A _[profile README](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)_ is essentially an "About me" section on your GitHub profile where you can share information about yourself with the community on GitHub.com. GitHub shows your profile README at the top of your profile page. For more information, see "[Managing your profile README](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)".
+**Cloud &amp; DevOps**<br/>
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,githubactions" height="44" alt="AWS, GCP, Azure, Docker, GitHub Actions" />
 
-2. **What is a repository?**: A _[repository](https://docs.github.com/get-started/quickstart/github-glossary#repository)_ is a project containing files and folders. A repository tracks versions of files and folders. For more information, see "[About repositories](https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories)" from GitHub Docs.
-<br>:tv: [Video: Exploring a repository](https://www.youtube.com/watch?v=R8OAwrcMlRw)
-3. **Course tips:**
-GitHub will display your profile README on your profile page if all of the following are true:
- - You've created a repository with a name that matches your GitHub username.
- - The repository is public.
- - The repository contains a file named README.md in its root.
- - The README.md file contains any content.
+**Databases**<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" height="44" alt="PostgreSQL, MongoDB, Redis" />
 
+**Frontend**<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" height="44" alt="React, Next.js, Tailwind" />
 
-</details>
+</div>
 
-<!-- 
-  <<< Author notes: Step 1 >>> 
-  Choose 3-5 steps for your course.
-  The first step is always the hardest, so pick something easy!
-  Link to docs.github.com for further explanations.
-  Encourage users to open new tabs for steps!
--->
+## 🚀 What I'm building right now
 
-<details id=1>
-<summary><h2>Adding a profile README</h2></summary>
+- **RAG services** — document ingestion → chunking → embeddings → pgvector → citation-grounded retrieval
+- **Streaming chat APIs** — SSE, conversation state, LLM tool use &amp; function calling, structured output parsing
+- **Security at the service layer** — AES-256 per-document encryption, keys in AWS Secrets Manager
+- **Serverless platform** — Lambda · API Gateway · S3 · CloudWatch — observable, instrumented, tested
 
-1. Open an additional tab in GitHub and follow the instructions below.
+## 📌 Featured Projects
 
-2. In the upper-right corner of any page, click the ‘+’ and use the  drop-down menu, and select New repository.
-<img width="265" alt="Screen Shot 2023-03-13 at 3 27 56 PM" src="https://user-images.githubusercontent.com/107881423/224812150-895e1373-03c1-4208-83be-6f671eb41496.png">
+| Project | What it is | Stack |
+| :--- | :--- | :--- |
+| **[LiverCare](https://livercare.mohammedmsgm.tech/)** &nbsp;<sub>↗ live</sub> | AI-powered medical-imaging platform for diagnostics support — MRI / medical image analysis on open foundation models | `Next.js` `Python` `AI` |
+| **[Forward](https://github.com/mohammedMsgm/Forward)** | All-in-one fitness platform — gym management, coaching plans, tracking, and a gear marketplace | `Node.js` `React` |
+| **AI CV Builder** | Next.js CV generator — print-to-PDF, real-time editing, AI-assisted role-tailored bullets via GPT-4o | `Next.js` `TypeScript` `Azure AI` |
 
-3. Under "Repository name", type a repository name that matches your GitHub username. For example, if your username is "octocat", the repository name must be "octocat".
-<img width="662" alt="Screen Shot 2023-03-13 at 3 28 06 PM" src="https://user-images.githubusercontent.com/107881423/224812371-3870872e-df11-4da8-8bbe-9d9ae3d57c3f.png">
+## 📊 GitHub Stats
 
-4. Optionally, add a description of your repository. For example, "My personal repository."
-<img width="643" alt="Screen Shot 2023-03-13 at 3 28 13 PM" src="https://user-images.githubusercontent.com/107881423/224812472-7c8da3b3-48fd-4d46-8ac6-dcadcef09d67.png">
+<div align="center">
 
-5. Select Public.
-<img width="651" alt="Screen Shot 2023-03-13 at 3 28 20 PM" src="https://user-images.githubusercontent.com/107881423/224812820-b40fd7a7-6802-4777-bf43-08c4b306efa9.png">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mohammedMsgm&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight&title_color=2DD4BF&icon_color=2DD4BF" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedMsgm&layout=compact&hide_border=true&theme=tokyonight&title_color=2DD4BF&langs_count=8" alt="Top languages" />
 
-6. Select Initialize this repository with a README.
-<img width="642" alt="Screen Shot 2023-03-13 at 3 28 28 PM" src="https://user-images.githubusercontent.com/107881423/224812890-790983ba-53d5-4eab-ba99-c46fb980b714.png">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedMsgm&hide_border=true&theme=tokyonight&ring=2DD4BF&fire=2DD4BF&currStreakLabel=2DD4BF" alt="Streak" />
 
-7. Click Create repository.
-<img width="646" alt="Screen Shot 2023-03-13 at 3 28 34 PM" src="https://user-images.githubusercontent.com/107881423/224813018-b15edbee-2765-414a-a14c-eacb2a85d7b7.png">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohammedMsgm/mohammedMsgm/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohammedMsgm/mohammedMsgm/output/github-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/mohammedMsgm/mohammedMsgm/output/github-snake.svg" />
+</picture>
 
-8. Above the right sidebar, click Edit README.
-<img width="646" alt="Screen Shot 2023-03-13 at 3 28 41 PM" src="https://user-images.githubusercontent.com/107881423/224813085-b9f3df65-65dd-4d20-9298-1231f5b07e3b.png">
+</div>
 
-9. The generated README file is pre-populated with a template to give you some inspiration for your profile README.
-<img width="659" alt="Screen Shot 2023-03-13 at 3 28 49 PM" src="https://user-images.githubusercontent.com/107881423/224813159-539f5b7d-ce1b-448e-bf92-f0c6d40f710f.png">
+## 🌍 Beyond the code
 
-To add a photo, simply drag the file from your computer into the text edit box and it will be uploaded in that section. For a summary of all the available emojis and their codes, see "Emoji cheat sheet."
+<div align="center">
 
-10. When you've made your customizations and want to save your work, select Commit Changes.
-<img width="353" alt="Screen Shot 2023-03-13 at 3 38 58 PM" src="https://user-images.githubusercontent.com/107881423/224814477-ccef9444-5e98-4aac-8f78-8960b678abf5.png">
+`Arabic — native` &nbsp;·&nbsp; `English — fluent` &nbsp;·&nbsp; `French — working`
 
+<sub>Off the clock: startups · robotics · football · economics · fighter jets</sub>
 
-_You did it! :tada:_
+</div>
 
-
-
-
-<!-- 
-  <<< Author notes: Finish >>> 
-  Review what we learned, ask for feedback, provide next steps.
--->
-
-<details id=X>
-<summary><h2>Finish</h2></summary>
-
-_Congratulations, you've completed this launchpad and joined the world of developers!_
-
-<img src=https://octodex.github.com/images/collabocats.jpg alt=celebrate width=300 align=right>
-
-
-### What's next?
-
-
-Check out these resources to learn more or get involved:
-- Check out the [Student Developer Pack](https://education.github.com/pack) for more resources and exclusive partner offers.
-- Explore more Experiences to help you make the most of your GitHub account.
-- [Read the GitHub Getting Started docs](https://docs.github.com/en/get-started).
-
-
-</details>
-
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
-
----
-
-Get help: [Post in our discussion board](https://github.com/skills/.github/discussions) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
-
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [CC-BY-4.0 License](https://creativecommons.org/licenses/by/4.0/legalcode)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" alt="" />
