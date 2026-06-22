@@ -6,6 +6,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=2DD4BF&center=true&vCenter=true&width=620&height=40&lines=Backend-focused+Software+Engineer;Building+AI-powered+backend+systems;RAG+pipelines+%C2%B7+Streaming+APIs+%C2%B7+Serverless;TypeScript+%2F+Node.js+%2F+Python+on+AWS" alt="Backend-focused Software Engineer building AI systems" />
 </a>
 
+<p><sub>⚙️ &nbsp;Currently <b>AI Software Engineer &amp; Technical Consultant @ Codefox</b> — AI backends, developer tools &amp; secure cloud architectures</sub></p>
+
 <p>
   <a href="https://www.mohammedmsgm.tech/"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/mohammed-messeguem-139b53161/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -21,7 +23,7 @@
 
 Backend-focused software engineer with **4+ years** shipping production services for AI-powered SaaS. I design and build REST + streaming APIs, **RAG pipelines**, and serverless backends — primarily in **TypeScript / Node.js** and **Python** on **AWS**.
 
-- 🔭 &nbsp;Building AI backend systems under strict compliance — RAG over large document corpora, streaming chat APIs with LLM function calling, AES-256 encrypted storage on AWS
+- 🔭 &nbsp;**AI Software Engineer @ Codefox** — building AI backend systems under strict compliance: RAG over large document corpora, streaming chat APIs with LLM function calling, AES-256 encrypted storage on AWS
 - 🧩 &nbsp;Backend-first, but I ship the UI in **React / Next.js** when a feature needs to go end-to-end
 - 🧠 &nbsp;Worn every hat at startups — junior, tech lead, founding-era engineer — across design, execution, and the underlying theory
 - 🎓 &nbsp;**Master's in Data Science** · **Bachelor's in Software Engineering** — USTHB, Algiers
